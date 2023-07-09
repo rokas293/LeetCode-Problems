@@ -1,7 +1,6 @@
 LeetCode
 ========
 
-### LeetCode Top 100 Like Problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
