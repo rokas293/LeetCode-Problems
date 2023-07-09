@@ -1,7 +1,7 @@
-LeetCode
-========
+LeetCode Problems
+=================
 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/bdb7fc4584efd56ea5a3519b07b0e5a1ad1ee962/100%20Top%20Liked%20Questions/Easy/TwoSum)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/74c17f57959c90380eb9ac0f01a3e45e2209b008/Top%20100%20Liked%20Questions/TwoSum/TwoSum.java)|Easy|
