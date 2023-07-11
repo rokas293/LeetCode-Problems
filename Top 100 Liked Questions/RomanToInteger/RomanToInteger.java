@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/roman-to-integer
 // Author : Rokas Mitka
-// Date : 7/11/2023
+// Date   : 7/11/2023
 
 /*******************************************************************************************************************************************************************
 * Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
