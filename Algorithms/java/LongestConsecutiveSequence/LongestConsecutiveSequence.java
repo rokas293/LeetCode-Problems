@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/longest-consecutive-sequence/
 // Author : Rokas Mitka
-// Date   : 2023-10-24
+// Date   : 2023-11-05
 
 /*****************************************************************************************************************
 * Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
