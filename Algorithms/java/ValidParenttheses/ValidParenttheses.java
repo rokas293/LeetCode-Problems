@@ -33,14 +33,19 @@
 *************************************************************************************/
 
 class Solution {
-    public String longestCommonPrefix(String[] strs) {
-        if(strs.length == 0) return "";
-        String prefix = strs[0];
-        for(int i = 1; i < strs.length; i++) {
-            while(strs[i].indexOf(prefix) != 0) {
-                prefix = prefix.substring(0, prefix.length()-1);
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<Character>();
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                stack.push(')');
+            } else if (c == '{') {
+                stack.push('}');
+            } else if (c == '[') {
+                stack.push(']');
+            } else if (stack.isEmpty() || stack.pop() != c) {
+                return false;
             }
         }
-        return prefix;
+        return stack.isEmpty();
     }
 }
