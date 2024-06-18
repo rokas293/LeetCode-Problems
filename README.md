@@ -20,6 +20,7 @@ LeetCode Problems
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/2bfcef0c763817f2ef74f49fb7317188afe0db2d/Algorithms/java/LengthOfLastWord/LengthOfLastWord.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/fe6451cc31e90840d6c960676f4712aee8249341/Algorithms/java/PlusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/775dfa890f7341d94fa8355213e268ca625ad3f8/Algorithms/java/AddBinary/AddBinary.java)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/5dc2d505fea840252abcebb8e4741a70eecf9564/Algorithms/java/Sqrt(x)/Sqrt(x).java)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/e295de49d0fc647e47d37dab085f06669e2df89a/Algorithms/java/LongestConsecutiveSequence/LongestConsecutiveSequence.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/b9281a6e239025d50c1c91dca6adef1871f72db7/Algorithms/java/EvaluateReversePolishNotation/EvaluateReversePolishNotation.java)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/6393b1d507392cccc2df80098f81c9b984a61fb1/Algorithms/java/MinStack/MinStack.java)|Medium|
@@ -27,3 +28,5 @@ LeetCode Problems
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/e9f3428879b868a24cdf70716198bd13359d9ef3/Algorithms/java/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/c1538f7040da676c422aed6ed44ab16d31328e57/Algorithms/java/ValidAnagram/ValidAnagram.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/892dd2ab552c7f7940e8067492da5d24729b855a/Algorithms/java/TopKFrequentElements/TopKFrequentElements.java)|Medium|
+
+https://github.com/rokas293/LeetCode-Problems/blob/5dc2d505fea840252abcebb8e4741a70eecf9564/Algorithms/java/Sqrt(x)/Sqrt(x).java
