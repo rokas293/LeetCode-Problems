@@ -33,6 +33,7 @@ LeetCode Problems
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/57f1b8f763d501938697ba020a40300fc4f69ed7/Algorithms/java/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/3cb843110d3c739542ec9c1e4734c63a8a819aec/Algorithms/java/PathSum/PathSum.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/7d71676a87a9ba5b9656d8f4ec79ef8475647fcb/Algorithms/java/PascalsTriangle/PascalsTriangle.java)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/e45a27063e5b7c0f4da30cce3aab5b032262464e/Algorithms/java/PascalsTriangleII/PascalsTriangleII.java)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/e295de49d0fc647e47d37dab085f06669e2df89a/Algorithms/java/LongestConsecutiveSequence/LongestConsecutiveSequence.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/b9281a6e239025d50c1c91dca6adef1871f72db7/Algorithms/java/EvaluateReversePolishNotation/EvaluateReversePolishNotation.java)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/6393b1d507392cccc2df80098f81c9b984a61fb1/Algorithms/java/MinStack/MinStack.java)|Medium|
@@ -40,4 +41,3 @@ LeetCode Problems
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/e9f3428879b868a24cdf70716198bd13359d9ef3/Algorithms/java/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/c1538f7040da676c422aed6ed44ab16d31328e57/Algorithms/java/ValidAnagram/ValidAnagram.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/rokas293/LeetCode-Problems/blob/892dd2ab552c7f7940e8067492da5d24729b855a/Algorithms/java/TopKFrequentElements/TopKFrequentElements.java)|Medium|
-
