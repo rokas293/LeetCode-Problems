@@ -62,5 +62,5 @@ class Solution:
             else:
                 stack.append(ch)
         
-        return True
+        return not stack
         
